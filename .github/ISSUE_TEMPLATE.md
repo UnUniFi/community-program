@@ -4,6 +4,7 @@
 **Discord-username**: example#0000   
 **UnUniFi WalletAddress**: ununifi1a~   
 
+**Task ID**: e.g. A0   
 **Your submitted content proof**: e.g. <article.url>
 
 ## Note
@@ -14,5 +15,6 @@
 ## Check List
 - [ ] Entered discord-username
 - [ ] Entered wallet address
+- [ ] Entered task id
 - [ ] Entered submitted content proof
 - [ ] Ensured important notes
