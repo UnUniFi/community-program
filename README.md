@@ -1,5 +1,15 @@
 # community-program
 
+#### Contents
+
+[Overview](https://github.com/UnUniFi/community-program/edit/main/README.md#overview)   
+[How to Contribute](https://github.com/UnUniFi/community-program/edit/main/README.md#how-to-contribute)   
+[Community Rewards](https://github.com/UnUniFi/community-program/edit/main/README.md#community-rewards)   
+[Tasks](https://github.com/UnUniFi/community-program/edit/main/README.md#tasks)   
+[Resources](https://github.com/UnUniFi/community-program/edit/main/README.md#resources)   
+[Reward/Point System](https://github.com/UnUniFi/community-program/edit/main/README.md#rewardpoint-system)   
+[Points](https://github.com/UnUniFi/community-program/edit/main/README.md#points)   
+
 ## Overview
 UnUniFi is a community-driven project, and we need you to help grow our ecosystem. We have created an open community program where every community member can join and support the UnUniFi ecosystem.   
 You can collect points and receive rewards if your contributions are valid. And joining the community program as a community member is the perfect way to show us that you are the Ambassador we need for the UnUniFi ecosystem.   
@@ -9,14 +19,14 @@ The community program consists out of two tracks:
 
 **Community rewards**: help UnUniFi to grow the ecosystem and get rewarded for your contributions.
 
-## How to contribute
+## How to Contribute
 
 - Create an account on GitHub.
-- Look at the [tasks](https://cauchye.notion.site/UnUniFi-Community-Program-999244e1d39d4f8b82424824fde18e4a).
-- Submit your contribution. Read [here](https://cauchye.notion.site/UnUniFi-Community-Program-999244e1d39d4f8b82424824fde18e4a)!
+- Look at the [tasks](https://github.com/UnUniFi/community-program/edit/main/README.md#tasks).
+- Submit your contribution. Read [here](https://github.com/UnUniFi/community-program/edit/main/README.md#how-to-contribute)  !
 - After your contribution has been verified, you can see the result in this [spreadsheet](https://docs.google.com/spreadsheets/d/1wdxeeBhkBY74SM8Om-qzmnYvgNkK5Xve/edit#gid=477188022).
 
-## Community rewards
+## Community Rewards
 
 ### How it works
 
@@ -64,7 +74,7 @@ It’s very important to educate yourself about the UnUniFi ecosystem. These res
 - Articles on [Medium](https://medium.com/@ununifi).
 - Join our community on [Twitter](https://twitter.com/ununifi) and [Discord](https://discord.gg/cTwAecga).
 
-## Reward/point system
+## Reward/Point System
 
 ### Rewards
 Every month 40,000 GUU Token from the community pool will be used as rewards. And these rewards will be distributed amongst our Ambassadors and community members based on their contributions on Github. The amount of distributed GUU will be posted at the end of each month after mainnet launch.   
